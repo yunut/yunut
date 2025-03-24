@@ -9,6 +9,8 @@
 
 <img src="https://img.shields.io/badge/gcp-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
+## :memo: Studying..
+<img src="https://img.shields.io/badge/langchain-C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
 
 ## :sparkles: Github Stats
